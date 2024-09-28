@@ -1,0 +1,28 @@
+{
+    "pessoas": [
+        {
+            "nome": "Felipe",
+            "sobrenome": "Dreissig",
+            "idade": 26,
+            "altura": 169
+        },
+        {
+            "nome": "Joao",
+            "sobrenome": "Fernandes",
+            "idade": 28,
+            "altura": 184
+        },
+        {
+            "nome": "Andre",
+            "sobrenome": "Vidotti",
+            "idade": 31,
+            "altura": 170
+        },
+        {
+            "nome": "Juliana",
+            "sobrenome": "Gameiro",
+            "idade": 29,
+            "altura": 160
+        }
+    ]
+}
