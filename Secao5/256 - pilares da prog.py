@@ -49,7 +49,7 @@ class ContaPoupanca(Conta):
             self._saldo -= valor
             self.mostra_saldo(f'Saque realizado com sucesso no valor de R${valor:.2f}.')
             return True
-        self.mostra_saldo(f'Não foi possível realizar o saque no valor de R${valor:.2f} porque o seu saldo final seria de R${saldo_final}.')
+        self.mostra_saldo(f'Não foi possível realizar o saque no valor R${valor:.2f} porque o seu saldo final seria de R${saldo_final}.')
         return False
 
     def __repr__(self) -> str:
